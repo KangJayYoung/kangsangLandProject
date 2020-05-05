@@ -5,5 +5,6 @@
 2. Scss<br/>
 3. windtail(free css framework)<br/>
 4. AWS S3 (static web)、 Route53、 AWS CloudFront(httpsのためCDN利用)<br/>
-5．Google MAP<br/>
+5. Google MAP<br/>
+6. Responsive Web
 
