@@ -11,6 +11,6 @@
 
 <h3>WEB</h3>
 <a href="https://www.kangsangland.net"></a>
-![m008](https://user-images.githubusercontent.com/54490500/81086257-35fb7f00-8f33-11ea-8004-311b3bb34cac.JPG)
+
 <h3>MOBILE - iphone6s基準。。 </h3>
-![m007](https://user-images.githubusercontent.com/54490500/81086266-37c54280-8f33-11ea-87ee-70072d228aa1.jpg)
+
