@@ -8,8 +8,10 @@
 3. windtail(free css framework)<br/>
 4. AWS S3 (static web)、 Route53、 AWS CloudFront(httpsのためCDN利用)<br/>
 5. Google MAP<br/>
-6. Responsive Web
+6. Responsive Web<br/>
+<br/>
 
+<a href = "https://www.kangsangland.net/">www.kangsangland.net</a>
 
 
 <h3>WEB</h3>
