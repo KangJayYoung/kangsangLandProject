@@ -23,7 +23,7 @@
 <h3>MOBILE - iphone6s基準。。 </h3>
 
 
-![m007](https://user-images.githubusercontent.com/54490500/81086963-1d3f9900-8f34-11ea-8dfb-0a2145845b52.jpg)
+
 
 
 以上
