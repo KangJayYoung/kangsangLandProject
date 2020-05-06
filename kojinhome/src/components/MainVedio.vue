@@ -1,14 +1,10 @@
 <template>
   <div class="main-vedio">
-    <video
-      ref="page1"
-      loop="loop"
-      autoplay="autoplay"
-      muted="muted"
-      playsinline
-    >
-      <source src="../assets/Shrine.mp4" type="video/mp4" />
-    </video>
+    <div class="vediofix">
+      <video ref="page1" loop="loop" autoplay="autoplay" muted="muted" playsinline>
+        <source src="../assets/Shrine.mp4" type="video/mp4" />
+      </video>
+    </div>
     <div class="jb-text">
       <h1 class="headtitle col-span-6">
         There
@@ -16,13 +12,11 @@
         <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span>
       </h1>
       <transition name="fade">
-        <p
-          v-if="show"
-          class="col-span-6 font-sans font-hairline main-font-setumei"
-        >
+        <p v-if="show" class="col-span-6 font-sans font-hairline main-font-setumei">
           "Ipsum efficitur nisi ac turpis venenatis varius."
           <br />Suspendisse sed dictum leo ipsum amet pellentesque fusce
-          achendrerit <br />consectetur tempor risus, sed eget semper nunc.
+          achendrerit
+          <br />consectetur tempor risus, sed eget semper nunc.
           <br />eleifend facilisis nisi vitae lorem ipsum dolor consequat
           loremipsum etiam.
           <br />
@@ -109,7 +103,6 @@ video {
   right: 0;
   bottom: 0;
   width: 100%;
-  height: auto;
   min-width: 100%;
   z-index: -100;
   background-size: cover;
@@ -123,6 +116,10 @@ video {
   width: 100%;
   color: aliceblue;
   font-family: "Noto Sans JP", sans-serif;
+}
+
+.vediofix {
+  width: 1539.73px;
 }
 
 .headtitle {
