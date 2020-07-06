@@ -1,30 +1,33 @@
 # kangsangLandProject
-<h1>Vue.js 個人ウェブサイト</h1><br/>
-<br/>
-目標：UI/UX デザイン計画はゼロから作成<br/>
-活用ツール<br/><br/>
-1. Fullpage.js *(J-Quaryは一切なし)<br/>
-2. Scss<br/>
-3. windtail(free css framework)<br/>
-4. AWS S3 (static web)、 Route53、 AWS CloudFront(httpsのためCDN利用)<br/>
-5. Google MAP<br/>
-6. Responsive Web<br/>
-<br/>
+<a>https://www.kangsangland.net/</a>
 
-<a href = "https://www.kangsangland.net/">www.kangsangland.net</a>
-
-
-<h3>WEB</h3>
-
+# ResponsiveWeb Practice (personal website)
 
 ![m008](https://user-images.githubusercontent.com/54490500/81086856-fed99d80-8f33-11ea-8fa2-7bfd01c63373.JPG)
 
 
-<h3>MOBILE - iphone6s基準。。 </h3>
+## Introduction
+<pre>
+   This project is a project that implements a reactive personal homepage using vue.js.
+   It is released using AWS S3, Route53, and Cloudfront and operates using node modules.
+</pre>
 
+## Folder Structure
+<pre>
+kojinhome
+├─node_modules
+└─src
+    ├─assets
+    ├─components
+    └─router
+    └─style
+</pre>
 
-![m010](https://user-images.githubusercontent.com/54490500/81132572-dbd9d880-8f89-11ea-8629-47cf37325572.jpg)
+## How to run
+<pre>
+1. cd into the project directory 
+2. type "npm run dev" in your terminal to start the app
+3. You're good to go!
+</pre>
 
-
-
-以上
+"The current image used is not a public image and the copyright does not exist to me, so unauthorized use and sharing is prohibited."
